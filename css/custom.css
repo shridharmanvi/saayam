@@ -1,0 +1,47 @@
+@font-face {
+    font-family: fabric;
+    src: url("../fonts/FabricsLight.ttf");
+}
+
+
+body{
+background-image: url("../images/binding_light.png");
+background-repeat: repeat;
+}
+
+
+.saayam{
+    font-family: fabric !important;
+    z-index: 10;
+    color: #3F3F3F;
+    margin-top: 25%;
+    text-shadow: 2px;
+}
+
+.back{
+    height: 200px;
+    width: 200px;
+    opacity: 0.3;
+    left: 40%;
+    bottom: 20%;
+    text-align: center;
+    position: absolute;
+}
+
+h1{
+    font-size: 500% !important;
+    font-family: fabric;
+}
+
+.top{
+ top: 20%;   
+}
+
+.navbar-inverse .navbar-nav > li > a
+{
+font-family: 'Advent Pro', sans-serif;
+font-size: 15px;
+    
+}
+
+
